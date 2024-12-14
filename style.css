@@ -1,0 +1,36 @@
+body{
+        
+    background-color: rgb(134, 129, 189);
+}
+div.a
+{
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+div.b
+{
+    text-align: triangle1;
+    color: #3d376b;
+}
+div.c
+{
+    color: rgb(251, 220, 217);
+    text-align: triangle1;
+}
+div.d
+{
+    color:#3d376b;
+    text-align: triangle2;
+}
+div.e
+{
+    color: rgb(251, 220, 217);
+    text-align: center;
+}
+div.f
+{
+    color: #3d376b;
+
+}
